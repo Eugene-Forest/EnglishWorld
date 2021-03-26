@@ -1,0 +1,5 @@
+/.vscode
+
+/source/_build/html
+
+/build/*
