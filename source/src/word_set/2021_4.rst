@@ -1,0 +1,17 @@
+============================
+ 2021年4月词集
+============================
+
+.. _Gender-Equality:
+
+appoint
+===============
+
+| vt. 任命；指定；约定
+| vi. 任命；委派
+
+.. code-block:: word
+
+    It made sense to appoint a banker to this job.
+
+| made sense : 有意义；讲得通；言之有理

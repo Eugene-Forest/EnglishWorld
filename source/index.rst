@@ -8,8 +8,9 @@ Welcome to EnglishWorld's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 英语世界
 
-   
+   文章集 <src/article_set/index>
+   词集 <src/word_set/index>
 
 
