@@ -15,3 +15,30 @@ appoint
     It made sense to appoint a banker to this job.
 
 | made sense : 有意义；讲得通；言之有理
+
+----
+
+feminism
+==============
+
+| n. 女权主义；女权运动；男女平等主义
+
+.. code-block:: word
+
+    It's in-your-face feminism, and it's meant to shock.
+
+| in-your-face : 胆大妄为的
+
+----
+
+synonymous
+============
+
+| adj. 同义词的，同义的
+
+.. code-block:: word
+
+    I have realize that fighting for women's rights has too often become **synonymous with man-hating**
+
+----
+
