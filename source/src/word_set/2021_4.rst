@@ -38,7 +38,37 @@ synonymous
 
 .. code-block:: word
 
-    I have realize that fighting for women's rights has too often become **synonymous with man-hating**
+    I have realize that fighting for women's rights has too often become synonymous with man-hating.
 
 ----
+
+certain
+=========
+
+| adj. 某一；必然的；**确信的**；无疑的；有把握的
+| pron. 某些；某几个 （介词）
+
+.. code-block:: word
+
+    Are you absolutely certain about this? (adj.)
+    Certain people might disagree with this. (pron.)
+
+----
+
+for the record
+==================
+
+| 郑重声明（在此声明）；正式地或明确地说
+
+For the record比较正式的含义是：记录下来，以备后查。但是在口语里，它表达的意思并非那么正式，说话者并非真的想让别人用笔进行记录，他只是想表达：请听好了（请注意），下面我所说的事情很重要。
+
+TheFreeDictionary对for the record的英文解释如下：Something that you say when you are about to tell someone something important that you want them to remember。
+
+另外，根据《Speak Business English like an American》，for the record还有一层意思是：let me make my opinion clear（让我表明我的观点）。
+
+
+.. code-block:: word
+
+    For the record, this conversation will be recorded.
+
 
